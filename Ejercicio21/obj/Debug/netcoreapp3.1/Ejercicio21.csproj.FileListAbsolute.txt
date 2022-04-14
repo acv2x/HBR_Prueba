@@ -1,0 +1,14 @@
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio21\bin\Debug\netcoreapp3.1\Ejercicio21.exe
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio21\bin\Debug\netcoreapp3.1\Ejercicio21.deps.json
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio21\bin\Debug\netcoreapp3.1\Ejercicio21.runtimeconfig.json
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio21\bin\Debug\netcoreapp3.1\Ejercicio21.runtimeconfig.dev.json
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio21\bin\Debug\netcoreapp3.1\Ejercicio21.dll
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio21\bin\Debug\netcoreapp3.1\Ejercicio21.pdb
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio21\obj\Debug\netcoreapp3.1\Ejercicio21.csproj.AssemblyReference.cache
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio21\obj\Debug\netcoreapp3.1\Ejercicio21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio21\obj\Debug\netcoreapp3.1\Ejercicio21.AssemblyInfoInputs.cache
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio21\obj\Debug\netcoreapp3.1\Ejercicio21.AssemblyInfo.cs
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio21\obj\Debug\netcoreapp3.1\Ejercicio21.csproj.CoreCompileInputs.cache
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio21\obj\Debug\netcoreapp3.1\Ejercicio21.dll
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio21\obj\Debug\netcoreapp3.1\Ejercicio21.pdb
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio21\obj\Debug\netcoreapp3.1\Ejercicio21.genruntimeconfig.cache

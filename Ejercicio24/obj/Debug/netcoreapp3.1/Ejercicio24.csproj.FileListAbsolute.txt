@@ -1,0 +1,14 @@
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio24\bin\Debug\netcoreapp3.1\Ejercicio24.exe
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio24\bin\Debug\netcoreapp3.1\Ejercicio24.deps.json
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio24\bin\Debug\netcoreapp3.1\Ejercicio24.runtimeconfig.json
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio24\bin\Debug\netcoreapp3.1\Ejercicio24.runtimeconfig.dev.json
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio24\bin\Debug\netcoreapp3.1\Ejercicio24.dll
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio24\bin\Debug\netcoreapp3.1\Ejercicio24.pdb
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio24\obj\Debug\netcoreapp3.1\Ejercicio24.csproj.AssemblyReference.cache
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio24\obj\Debug\netcoreapp3.1\Ejercicio24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio24\obj\Debug\netcoreapp3.1\Ejercicio24.AssemblyInfoInputs.cache
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio24\obj\Debug\netcoreapp3.1\Ejercicio24.AssemblyInfo.cs
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio24\obj\Debug\netcoreapp3.1\Ejercicio24.csproj.CoreCompileInputs.cache
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio24\obj\Debug\netcoreapp3.1\Ejercicio24.dll
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio24\obj\Debug\netcoreapp3.1\Ejercicio24.pdb
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio24\obj\Debug\netcoreapp3.1\Ejercicio24.genruntimeconfig.cache

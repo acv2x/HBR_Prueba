@@ -1,0 +1,14 @@
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio23\bin\Debug\netcoreapp3.1\Ejercicio23.exe
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio23\bin\Debug\netcoreapp3.1\Ejercicio23.deps.json
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio23\bin\Debug\netcoreapp3.1\Ejercicio23.runtimeconfig.json
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio23\bin\Debug\netcoreapp3.1\Ejercicio23.runtimeconfig.dev.json
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio23\bin\Debug\netcoreapp3.1\Ejercicio23.dll
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio23\bin\Debug\netcoreapp3.1\Ejercicio23.pdb
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio23\obj\Debug\netcoreapp3.1\Ejercicio23.csproj.AssemblyReference.cache
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio23\obj\Debug\netcoreapp3.1\Ejercicio23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio23\obj\Debug\netcoreapp3.1\Ejercicio23.AssemblyInfoInputs.cache
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio23\obj\Debug\netcoreapp3.1\Ejercicio23.AssemblyInfo.cs
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio23\obj\Debug\netcoreapp3.1\Ejercicio23.csproj.CoreCompileInputs.cache
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio23\obj\Debug\netcoreapp3.1\Ejercicio23.dll
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio23\obj\Debug\netcoreapp3.1\Ejercicio23.pdb
+C:\Users\wilym\Escritorio\Ejercicios Propuestos Diferentes y No Resueltos!\Ejercicio23\obj\Debug\netcoreapp3.1\Ejercicio23.genruntimeconfig.cache
